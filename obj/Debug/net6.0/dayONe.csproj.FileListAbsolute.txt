@@ -1,0 +1,15 @@
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\bin\Debug\net6.0\dayONe.exe
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\bin\Debug\net6.0\dayONe.deps.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\bin\Debug\net6.0\dayONe.runtimeconfig.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\bin\Debug\net6.0\dayONe.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\bin\Debug\net6.0\dayONe.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.csproj.AssemblyReference.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.AssemblyInfoInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.AssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.csproj.CoreCompileInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\refint\dayONe.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\dayONe.genruntimeconfig.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\PigLatenLab\dayONe\obj\Debug\net6.0\ref\dayONe.dll
